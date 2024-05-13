@@ -10,6 +10,7 @@ namespace KMS1_06_LE_02_03
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Herr Thaler");
         }
     }
 }
